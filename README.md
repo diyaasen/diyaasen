@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Columbus Academy '26
+Columbus Academy'26
+
 procrastinating...
 
 <!--
